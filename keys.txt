@@ -1,1 +1,0 @@
-Welcome to secure vault script for your security secrets.txt logs.txt

@@ -16,5 +16,7 @@ echo "Welcome to secure vault script for your security secrets" > "$VAULT/secret
 echo "Welcome to secure vault script for your security logs" > "$VAULT/logs.txt"
 
 #confirm files are created and list them in long format
-echo "secure_vault dir and files created successfully"
 ls -lht "$VAULT"
+echo "-------------------------------------------------------"
+echo "secure_vault directory and files created successfully"
+
